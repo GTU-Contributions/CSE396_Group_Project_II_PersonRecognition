@@ -3,7 +3,7 @@ Gebze Technical University
 
 Find the stickman on a A4 paper - Spring 2017
 
-Instructor: Erkan Zergeroglu
+Instructor: Prof. Dr. Erkan Zergeroglu
 
 Team members: 
 - Ahmet Alperen BULUT
