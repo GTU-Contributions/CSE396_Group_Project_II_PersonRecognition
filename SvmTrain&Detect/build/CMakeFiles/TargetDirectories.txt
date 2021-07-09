@@ -1,0 +1,4 @@
+/home/sveyda/Desktop/SvmTrain&Detect/build/CMakeFiles/edit_cache.dir
+/home/sveyda/Desktop/SvmTrain&Detect/build/CMakeFiles/rebuild_cache.dir
+/home/sveyda/Desktop/SvmTrain&Detect/build/CMakeFiles/detect.dir
+/home/sveyda/Desktop/SvmTrain&Detect/build/CMakeFiles/train.dir
