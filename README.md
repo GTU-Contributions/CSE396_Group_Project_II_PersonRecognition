@@ -32,9 +32,9 @@ The configuration settings of the system are set from the user interface.
 However, in order to make the project even a bit harder there are few restrictions set by our dear instructor. :) 
 
 They are as follows:
-1. The camera cannot be motionless. We are supposed to hang it on a rope, so it shakes everytime the mechanism moves over the paper.
+1. The camera cannot be motionless/stable. We are supposed to hang it on a rope, so it shakes everytime the mechanism moves over the paper.
 2. The camera is not allowed to take shots which cover more than 1/8th of the paper's surface area in a single shot.
-3. The drawn stick man may have irregular form. For example it might have a single arm or leg. It might have a hand on its head or head a lot bigger than his body. In these cases the mechanism should pretend that there is not a stick man.
+3. The drawn stickman may have an irregular form. For example, it may have a single arm or leg. It may have a hand on its head or a head bigger than its body. In such scenarios the mechanism should pretend that a stickman has not been found yet and continue running.
 
 The created system resembles a 3D printer. 4 stepper motors are making the mechanism to move both on X and Y coordinates (2 motors for each).
 Arduino Uno and Arduino CNC Shield are used to ensure the power supply and control of the stepper motors. 
