@@ -39,3 +39,15 @@ They are as follows:
 The created system resembles a 3D printer. 4 stepper motors are making the mechanism to move both on X and Y coordinates (2 motors for each).
 Arduino Uno and Arduino CNC Shield are used to ensure the power supply and control of the stepper motors. 
 The communication between the Arduino and the user interface is achieved with the RS-232 communication standard. 
+
+- Hardware Specifications:
+    - 4 Stepper Motors
+    - 1 Arduino Uno
+    - 1 Arduino CNC Shield
+    - 1 basic 1.3 MP Camera
+
+- Software Specifications:
+    - Qt 5.7 - for the user interface
+    - OpenCV library 
+    - Arduino Library
+    - Programming language: C/C++
